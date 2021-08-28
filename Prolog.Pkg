@@ -1,0 +1,6 @@
+k,v1,v2
+package,Prolog,v1.0.20210413
+from,github.com/io-core,whenever
+license,MIT,CP
+doc,suplib, interpret Prolog programs.
+p,Prolog.Mod,
